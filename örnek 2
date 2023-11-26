@@ -1,3 +1,6 @@
+/*Boyu 100, kilosu 20  olan ve her ay boyu %10 kilosu ise %5 
+artan birinin kaç ay sonra boyunun 150’yi , kilosunu  ise 30’u geçeceyini bulan kod.*\
+
 
 #include <stdio.h>
 int main(void) {
