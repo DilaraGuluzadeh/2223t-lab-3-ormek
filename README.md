@@ -1,1 +1,1 @@
-# 2223t-lab-3-ormek
+# 2223t-lab-3-ornekler
