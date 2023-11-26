@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+int main(void) {
+ int i, boy=100, kilo=20;
+ while(boy<150 ||  kilo<30)
+ {
+   boy += boy*0.1;
+   kilo += kilo*0.05;
+   i++;
+ }
+ printf("%d",i);
+  return 0;
+}
